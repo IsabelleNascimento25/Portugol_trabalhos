@@ -4,6 +4,7 @@
   Portugol, também conhecido como Português Estruturado, é uma linguagem de programação fictícia criada para ajudar iniciantes a compreender os conceitos de programação de forma mais simples e acessível. O termo "Portugol" é derivado da combinação das palavras "Português" e "Algoritmo", indicando que a linguagem é projetada para se assemelhar à linguagem cotidiana em português e para ensinar os fundamentos dos algoritmos de programação.
   
   Comandos:
+  
   5 variaveis: Aprendendo a criar variaveis e modificalas
   Etanol gasolina: Esta seção do arquivo guarda informações do Portugol Studio.
   Idade: Configurando opções de escolha.
@@ -18,5 +19,6 @@
   
 
 Disciplina: Lógica de Programação.
+
 Professor:Cleo Quintiliano Fernandes de Brito.
 
